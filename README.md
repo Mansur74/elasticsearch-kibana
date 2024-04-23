@@ -272,7 +272,6 @@ GET news_headlines/_search
   }
 }
 
-
 GET news_headlines/_search
 {
   "query": {
